@@ -36,7 +36,7 @@ Styling for LOTR website
     float: right;
     height: 100%;
 }
-.headerNav a{
+.headerNav li{
     height: 100%;
     display: table;
     float: left;
